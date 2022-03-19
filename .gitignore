@@ -88,3 +88,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Todo File
+todo.md

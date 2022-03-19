@@ -2,6 +2,10 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  router: {
+    base: '/ache-um-bioinformata/',
+  },
+
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'ache-um-bioinformata',
@@ -18,7 +22,7 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [],
+  css: ['@fortawesome/fontawesome-free/css/all.min.css'],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
@@ -34,8 +38,13 @@ export default {
     '@nuxtjs/tailwindcss',
   ],
 
+  tailwindcss: {
+    cssPath: '~/assets/css/app.css',
+    exposeConfig: true,
+  },
+
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [],
+  modules: ['@nuxtjs/axios'],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
