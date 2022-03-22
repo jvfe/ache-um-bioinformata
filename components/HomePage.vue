@@ -1,10 +1,8 @@
 <template>
-  <main class="grid place-items-center text-center h-full">
+  <main class="full-main">
     <div class="grid place-items-center text-center md:w-3/4 grid-rows-2">
       <div class="mb-10">
-        <h1 class="mb-3 text-steel-teal text-lg md:text-4xl font-bold">
-          Ache um Bioinformata
-        </h1>
+        <h1 class="main-title">Ache um Bioinformata</h1>
         <h3 class="font-medium">
           Ou então procure uma
           <nuxt-link
@@ -28,7 +26,7 @@
           placeholder="Nome de um bioinformata brasileiro"
           class="autocomplete"
         />
-        <input type="submit" value="Search" class="submit-btn" />
+        <input type="submit" value="Buscar" class="submit-btn" />
       </form>
     </div>
   </main>

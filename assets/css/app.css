@@ -16,4 +16,16 @@ html {
   .menu-btn {
     @apply grid place-items-center transition-shadow hover:shadow-underline h-full;
   }
+  .main-title {
+    @apply mb-3 text-steel-teal text-lg md:text-4xl font-bold;
+  }
+}
+
+@layer utilities {
+  .full-main {
+    @apply grid place-items-center text-center h-full;
+  }
+  .centerize {
+    @apply grid place-items-center;
+  }
 }
