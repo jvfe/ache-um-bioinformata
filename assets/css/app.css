@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+html {
+  background-color: #fafafa;
+}
+
+@layer components {
+  .autocomplete {
+    @apply leading-6 py-2 px-4 placeholder-gray-500 text-lg text-rich-black focus:outline-none border-b-4 border-green-pantone w-full;
+  }
+  .submit-btn {
+    @apply self-center w-36 mt-5 py-2 rounded bg-green-pantone text-linen font-extrabold cursor-pointer hover:bg-opacity-90 transition ease-linear delay-75;
+  }
+  .menu-btn {
+    @apply grid place-items-center transition-shadow hover:shadow-underline h-full;
+  }
+}

@@ -36,11 +36,19 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    // https://google-fonts.nuxtjs.org
+    '@nuxtjs/google-fonts',
   ],
 
   tailwindcss: {
     cssPath: '~/assets/css/app.css',
     exposeConfig: true,
+  },
+
+  googleFonts: {
+    families: {
+      Roboto: true,
+    },
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
