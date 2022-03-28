@@ -5,9 +5,7 @@
         <h1 class="main-title">Ache um Bioinformata</h1>
         <h3 class="font-medium">
           Ou então procure uma
-          <nuxt-link
-            to="/institutions/"
-            class="text-forest-green-web underline hover:no-underline font-semibold"
+          <nuxt-link to="/institutions/" class="simple-link font-semibold"
             >instituição</nuxt-link
           >
           da nossa lista

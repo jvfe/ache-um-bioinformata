@@ -13,7 +13,7 @@
       <td
         v-for="(index, datapoint) in row"
         :key="`${data.indexOf(row)}${datapoint}`"
-        class="px-1"
+        class="px-3"
       >
         {{ row[datapoint] }}
       </td>
