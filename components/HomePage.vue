@@ -11,7 +11,11 @@
           da nossa lista
         </h3>
       </div>
-      <form method="get" class="flex flex-col gap-2 w-full md:w-3/4">
+      <form
+        method="get"
+        class="flex flex-col gap-2 w-full md:w-3/4"
+        @submit.prevent="submitName"
+      >
         <label
           for="searchAutor"
           class="text-sm text-rick-black text-left font-semibold self-baseline"
@@ -19,10 +23,12 @@
         >
         <input
           id="searchAuthor"
+          v-model="selectedItem"
           type="text"
           name="searchAuthor"
           placeholder="Nome de um bioinformata brasileiro"
           class="autocomplete"
+          autofocus
         />
         <input type="submit" value="Buscar" class="submit-btn" />
       </form>
@@ -55,6 +61,9 @@ export default {
   methods: {
     selectedData(value) {
       this.selectedItem = value
+    },
+    submitName() {
+      this.$router.push(`/search/${this.selectedItem}`)
     },
   },
 }

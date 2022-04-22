@@ -7,8 +7,8 @@ html {
 }
 
 @layer components {
-  .autocomplete {
-    @apply leading-6 py-2 px-4 placeholder-gray-500 text-lg text-rich-black focus:outline-none border-b-4 border-green-pantone w-full;
+  .input-bar {
+    @apply leading-6 py-2 px-4 placeholder-gray-500 text-lg text-rich-black focus:outline-none border-b-4 border-green-pantone w-full bg-[#fafafa];
   }
   .btn {
     @apply px-3 py-2 rounded bg-green-pantone text-linen font-extrabold cursor-pointer hover:bg-opacity-90 transition ease-linear delay-75;
@@ -23,7 +23,16 @@ html {
     @apply mb-3 text-steel-teal text-lg md:text-4xl font-bold;
   }
   .author-section {
-    @apply grid grid-cols-1 md:grid-cols-author-card place-items-center md:justify-between gap-4 md:gap-2 mx-10 my-10 px-2 py-3 animate-slide-down text-center md:text-left text-steel-teal;
+    @apply grid grid-cols-1 md:grid-cols-author-card place-items-center md:justify-between gap-4 md:gap-2; 
+  }
+  .card {
+    @apply mx-10 my-10 px-2 py-3 animate-slide-down text-center md:text-left text-steel-teal;
+  }
+  .panel-span {
+    @apply flex justify-between border-b-[1px] border-t-[1px] border-rich-black border-opacity-60;
+  }
+  .sheet {
+    @apply shadow-md rounded p-3 bg-linen bg-opacity-10;
   }
 }
 
@@ -39,5 +48,9 @@ html {
   }
   .simple-link {
     @apply text-forest-green-web underline hover:no-underline;
+  }
+  input[type=file]::-webkit-file-upload-button,
+  input[type=file]::file-selector-button {
+    @apply bg-linen bg-opacity-20 text-linen font-medium border-0 rounded-full px-2.5 py-1 mr-2;
   }
 }

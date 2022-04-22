@@ -3,7 +3,10 @@
     class="w-full flex gap-3 px-2 py-3 items-center shadow-md border-b-2 border-steel-teal text-steel-teal"
   >
     <span>
-      <nuxt-link to="/" class="md:text-2xl font-bold">
+      <nuxt-link
+        to="/"
+        class="md:text-2xl font-bold hover:opacity-90 transition-all"
+      >
         Ache um Bioinformata
       </nuxt-link></span
     >
