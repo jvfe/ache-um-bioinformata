@@ -1,7 +1,5 @@
 <template>
-  <InstitutionsPage :institution-list="institutionList">
-    <SimpleTable :headers="header" :data="institutionList" />
-  </InstitutionsPage>
+  <InstitutionListPage :institution-list="institutionList" />
 </template>
 
 <script>

@@ -19,7 +19,7 @@
           On Wikidata
         </a>
         <a
-          :href="`https://scholia.toolforge.org/author/${qid}`"
+          :href="`https://scholia.toolforge.org/${qid}`"
           target="_blank"
           rel="noopener noreferrer"
           class="btn"

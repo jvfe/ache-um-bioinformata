@@ -1,0 +1,62 @@
+<template>
+  <GeneralCard :image-link="researcher.picture" :qid="researcher.id">
+    <div class="grid gap-0">
+      <h1 class="text-xl md:text-2xl text-brightpurple font-bold">
+        {{ researcher.name }} - {{ researcher.id }}
+      </h1>
+      <span class="flex flex-col md:flex-row gap-1">
+        <p>
+          {{
+            researcher.affiliationRole ? researcher.affiliationRole : 'membro'
+          }}
+          no
+        </p>
+        <nuxt-link
+          :to="`/institution/${researcher.affiliation}`"
+          class="text-sm md:text-base simple-link"
+          >{{ researcher.affiliationLabel }}</nuxt-link
+        >
+      </span>
+    </div>
+    <div class="flex flex-col md:flex-row items-center gap-3 md:gap-2">
+      <span v-if="researcher.orcid" title="Orcid">
+        <i class="fa-brands fa-orcid icon-style"></i>
+        <a
+          :href="`https://orcid.org/${researcher.orcid}`"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="simple-link"
+          >{{ researcher.orcid }}</a
+        >
+      </span>
+      <span v-if="researcher.lattes" title="lattes" class="flex">
+        <LattesIcon class="w-5 icon-style" />
+        <a
+          :href="`https://lattes.cnpq.br/${researcher.lattes}`"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="simple-link"
+          >{{ researcher.lattes }}</a
+        >
+      </span>
+    </div>
+  </GeneralCard>
+</template>
+
+<script>
+import GeneralCard from '@/components/utilities/GeneralCard.vue'
+import LattesIcon from '@/components/Icons/LattesIcon.vue'
+
+export default {
+  components: {
+    GeneralCard,
+    LattesIcon,
+  },
+  props: {
+    researcher: {
+      type: Object,
+      default: null,
+    },
+  },
+}
+</script>
