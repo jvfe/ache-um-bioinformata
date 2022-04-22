@@ -4,7 +4,7 @@
       <h1 class="text-xl md:text-2xl text-brightpurple font-bold">
         {{ researcher.name }} - {{ researcher.id }}
       </h1>
-      <span class="flex flex-col md:flex-row gap-1">
+      <span class="grid md:flex-row">
         <p>
           {{
             researcher.affiliationRole ? researcher.affiliationRole : 'membro'
