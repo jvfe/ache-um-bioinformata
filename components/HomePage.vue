@@ -21,14 +21,11 @@
           class="text-sm text-rick-black text-left font-semibold self-baseline"
           >Insira o nome de um bioinformata:</label
         >
-        <input
-          id="searchAuthor"
+        <Autocomplete
           v-model="selectedItem"
-          type="text"
-          name="searchAuthor"
           placeholder="Nome de um bioinformata brasileiro"
-          class="autocomplete"
-          autofocus
+          input-class="autocomplete"
+          :data="list"
         />
         <input type="submit" value="Buscar" class="submit-btn" />
       </form>
@@ -37,7 +34,12 @@
 </template>
 
 <script>
+import Autocomplete from '@/components/utilities/Autocomplete.vue'
+
 export default {
+  components: {
+    Autocomplete,
+  },
   data() {
     return {
       list: [

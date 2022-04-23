@@ -7,7 +7,7 @@ html {
 }
 
 @layer components {
-  .input-bar {
+  .autocomplete {
     @apply leading-6 py-2 px-4 placeholder-gray-500 text-lg text-rich-black focus:outline-none border-b-4 border-green-pantone w-full bg-[#fafafa];
   }
   .btn {
