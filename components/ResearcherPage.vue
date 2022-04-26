@@ -7,8 +7,6 @@
 <script>
 import ResearcherCard from '@/components/ResearcherCard.vue'
 
-import { getAuthor } from '@/lib/API.js'
-
 export default {
   components: {
     ResearcherCard,
@@ -21,13 +19,18 @@ export default {
   },
   data() {
     return {
-      authorData: {},
+      authorData: {
+        id: 'Q7508008',
+        name: 'Sidarta Ribeiro',
+        lattes: '0649912135067700',
+        orcid: '0000-0001-9325-9545',
+        picture:
+          'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sidarta_Ribeiro.jpg/220px-Sidarta_Ribeiro.jpg',
+        affiliation: 'Q105627005',
+        affiliationLabel: 'Graduate Program in Bioinformatics (UFRN)',
+        affiliationRole: 'professor',
+      },
     }
-  },
-  async fetch() {
-    const authorData = await getAuthor()
-
-    this.authorData = authorData
   },
 }
 </script>
