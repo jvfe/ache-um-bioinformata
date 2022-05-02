@@ -22,9 +22,10 @@
           >Insira o nome de um bioinformata:</label
         >
         <Autocomplete
-          v-model="selectedItem"
+          v-model="selectedLabel"
           placeholder="Nome de um bioinformata brasileiro"
           input-class="autocomplete"
+          @chosen="(item) => selectedData(item)"
         />
         <input type="submit" value="Buscar" class="submit-btn" />
       </form>
@@ -41,22 +42,8 @@ export default {
   },
   data() {
     return {
-      list: [
-        {
-          id: 1,
-          name: 'Amsterdam',
-        },
-        {
-          id: 2,
-          name: 'Berlin',
-        },
-        {
-          id: 3,
-          name: 'Istanbul',
-        },
-      ],
-      selectedItemIds: [],
       selectedItem: null,
+      selectedLabel: null,
     }
   },
   methods: {
@@ -64,7 +51,7 @@ export default {
       this.selectedItem = value
     },
     submitName() {
-      this.$router.push(`/search/${this.selectedItem}`)
+      this.$router.push(`/search/${this.selectedItem.qid.value}`)
     },
   },
 }
