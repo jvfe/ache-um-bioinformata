@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
+body, html, #__nuxt, #__layout {
   background-color: #fafafa;
+  height: 100%;
 }
 
 @layer components {

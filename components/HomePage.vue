@@ -25,7 +25,6 @@
           v-model="selectedItem"
           placeholder="Nome de um bioinformata brasileiro"
           input-class="autocomplete"
-          :data="list"
         />
         <input type="submit" value="Buscar" class="submit-btn" />
       </form>
