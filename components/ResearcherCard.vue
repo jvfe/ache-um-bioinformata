@@ -1,5 +1,5 @@
 <template>
-  <GeneralCard :image-link="researcher.picture" :qid="researcher.id">
+  <GeneralCard :qid="researcher.id" :image-link="researcher.picture">
     <div class="grid gap-0">
       <h1 class="text-xl md:text-2xl text-brightpurple font-bold">
         {{ researcher.name }} - {{ researcher.id }}

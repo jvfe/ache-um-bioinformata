@@ -1,36 +1,37 @@
 <template>
   <div class="centerize">
-    <ResearcherCard :researcher="authorData" />
+    <Loading
+      v-if="$fetchState.pending"
+      class="w-[64px] h-[64px] after:w-[64px] after:h-[64px]"
+    />
+    <ResearcherCard v-else :researcher="authorData" />
   </div>
 </template>
 
 <script>
+import { getResearcherInfo } from '@/lib/API'
 import ResearcherCard from '@/components/ResearcherCard.vue'
+import Loading from '@/components/utilities/Loading.vue'
 
 export default {
   components: {
     ResearcherCard,
+    Loading,
   },
   props: {
     bioinformata: {
       type: String,
-      default: 'Q90076935',
+      default: null,
     },
   },
   data() {
     return {
-      authorData: {
-        id: 'Q7508008',
-        name: 'Sidarta Ribeiro',
-        lattes: '0649912135067700',
-        orcid: '0000-0001-9325-9545',
-        picture:
-          'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sidarta_Ribeiro.jpg/220px-Sidarta_Ribeiro.jpg',
-        affiliation: 'Q105627005',
-        affiliationLabel: 'Graduate Program in Bioinformatics (UFRN)',
-        affiliationRole: 'professor',
-      },
+      authorData: null,
     }
+  },
+  async fetch() {
+    const dataset = await getResearcherInfo(this.bioinformata)
+    this.authorData = dataset
   },
 }
 </script>
