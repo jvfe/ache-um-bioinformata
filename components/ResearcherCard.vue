@@ -1,9 +1,12 @@
 <template>
   <GeneralCard :qid="researcher.id" :image-link="researcher.picture">
     <div class="grid gap-0">
-      <h1 class="text-xl md:text-2xl text-brightpurple font-bold">
+      <nuxt-link
+        :to="`/search/${researcher.id}`"
+        class="text-xl md:text-2xl text-brightpurple font-bold simple-link"
+      >
         {{ researcher.name }} - {{ researcher.id }}
-      </h1>
+      </nuxt-link>
       <span class="grid md:flex-row">
         <p>
           {{
