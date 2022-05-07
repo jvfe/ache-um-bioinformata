@@ -9,8 +9,13 @@
         </p>
       </div>
       <div class="grid grid-cols-2 gap-1">
+        <Loading
+          v-if="$fetchState.pending"
+          class="w-[64px] h-[64px] after:w-[64px] after:h-[64px]"
+        />
         <InstitutionCard
           v-for="institution in institutions"
+          v-else
           :key="institution.id"
           :institution="institution"
         />
@@ -20,30 +25,23 @@
 </template>
 
 <script>
+import { getPrograms } from '@/lib/API'
+
 import InstitutionCard from '@/components/InstitutionCard.vue'
+import Loading from '@/components/utilities/Loading.vue'
 
 export default {
   components: {
     InstitutionCard,
+    Loading,
   },
   data() {
     return {
-      institutions: [
-        {
-          id: 'Q102292035',
-          label: 'Graduate Interdisciplinary Program in Bioinformatics (USP)',
-          part_of: 'University of São Paulo',
-          official_website: 'https://www.ime.usp.br/pos-bioinformatica',
-        },
-        {
-          id: 'Q105627005',
-          label: 'Graduate Program in Bioinformatics (UFRN)',
-          part_of: 'Federal University of Rio Grande do Norte',
-          official_website:
-            'https://sigaa.ufrn.br/sigaa/public/programa/apresentacao.jsf?lc=pt_BR&id=9814',
-        },
-      ],
+      institutions: null,
     }
+  },
+  async fetch() {
+    this.institutions = await getPrograms()
   },
 }
 </script>

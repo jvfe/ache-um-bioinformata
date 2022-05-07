@@ -8,7 +8,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'ache-um-bioinformata',
+    title: 'Ache um Bioinformata',
     htmlAttrs: {
       lang: 'en',
     },

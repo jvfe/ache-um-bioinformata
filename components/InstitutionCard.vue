@@ -5,15 +5,15 @@
         :to="`/institution/${institution.id}`"
         class="text-xl md:text-2xl text-brightpurple font-bold simple-link"
       >
-        {{ institution.label }} - {{ institution.id }}
+        {{ institution.institution }} - {{ institution.id }}
       </nuxt-link>
       <span class="flex flex-col gap-1">
         <p>
-          Programa na
-          {{ institution.part_of }}
+          {{ institution.parentOrg }}
         </p>
         <a
-          :href="institution.official_website"
+          v-if="institution.officialWebsite"
+          :href="institution.officialWebsite"
           target="_blank"
           rel="noopener noreferrer"
           class="simple-link"
