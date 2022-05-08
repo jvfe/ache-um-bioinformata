@@ -13,6 +13,7 @@
           v-if="$fetchState.pending"
           class="w-[64px] h-[64px] after:w-[64px] after:h-[64px]"
         />
+        <ErrorElement v-else-if="$fetchState.error" />
         <InstitutionCard
           v-for="institution in institutions"
           v-else
@@ -29,11 +30,13 @@ import { getPrograms } from '@/lib/API'
 
 import InstitutionCard from '@/components/InstitutionCard.vue'
 import Loading from '@/components/utilities/Loading.vue'
+import ErrorElement from '@/components/utilities/ErrorElement.vue'
 
 export default {
   components: {
     InstitutionCard,
     Loading,
+    ErrorElement,
   },
   data() {
     return {

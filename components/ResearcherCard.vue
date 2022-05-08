@@ -7,7 +7,7 @@
       >
         {{ researcher.name }} - {{ researcher.id }}
       </nuxt-link>
-      <span class="grid md:flex-row">
+      <span class="flex gap-1">
         <p>
           {{
             researcher.affiliationRole ? researcher.affiliationRole : 'membro'
