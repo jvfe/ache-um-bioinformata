@@ -94,3 +94,6 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# Tailwind CSS file
+assets/css/app.css
