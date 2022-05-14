@@ -1,12 +1,17 @@
 <template>
   <main class="my-10 text-center">
     <div class="centerize gap-12">
-      <div class="centerize">
+      <div class="centerize gap-3">
         <h1 class="main-title">Instituições & Programas</h1>
         <p class="text-medium w-3/4">
           Lista de instituições e programas de pós-graduação brasileiros da área
           de bioinformática
         </p>
+        <DownloadButton
+          v-if="$fetchState.pending == false"
+          :data-json="institutions"
+          csv-name="institutions"
+        />
       </div>
       <div class="grid grid-cols-2 gap-1">
         <Loading
@@ -31,16 +36,18 @@ import { getPrograms } from '@/lib/API'
 import InstitutionCard from '@/components/InstitutionCard.vue'
 import Loading from '@/components/utilities/Loading.vue'
 import ErrorElement from '@/components/utilities/ErrorElement.vue'
+import DownloadButton from '@/components/utilities/DownloadButton.vue'
 
 export default {
   components: {
     InstitutionCard,
     Loading,
     ErrorElement,
+    DownloadButton,
   },
   data() {
     return {
-      institutions: null,
+      institutions: [],
     }
   },
   async fetch() {

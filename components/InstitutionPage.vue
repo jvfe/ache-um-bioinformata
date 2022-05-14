@@ -7,6 +7,11 @@
       />
       <ErrorElement v-else-if="$fetchState.error" />
       <InstitutionInfoHeader v-else :institution="institution" />
+      <DownloadButton
+        v-if="$fetchState.pending == false"
+        :data-json="researchers"
+        :csv-name="`${institutionId}_researchers`"
+      />
       <div class="grid grid-cols-2 gap-1">
         <Loading
           v-if="$fetchState.pending"
@@ -32,6 +37,7 @@ import InstitutionInfoHeader from '@/components/InstitutionInfoHeader.vue'
 import ResearcherCard from '@/components/ResearcherCard.vue'
 import Loading from '@/components/utilities/Loading.vue'
 import ErrorElement from '@/components/utilities/ErrorElement.vue'
+import DownloadButton from '@/components/utilities/DownloadButton.vue'
 
 export default {
   components: {
@@ -39,6 +45,7 @@ export default {
     InstitutionInfoHeader,
     Loading,
     ErrorElement,
+    DownloadButton,
   },
   props: {
     institutionId: {
