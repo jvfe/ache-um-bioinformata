@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q30650071", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Luiz Carlos Alcantara",lattes:a,orcid:"0000-0002-6769-9931",picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q30650071")));

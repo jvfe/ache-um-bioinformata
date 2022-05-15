@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102280070", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Nelson Ithiro Tanaka",lattes:"6707083961059124",orcid:a,picture:a,affiliation:"Q10302895",affiliationLabel:"Instituto de Matemática e Estatística da Universidade de São Paulo",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q102280070")));

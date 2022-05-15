@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q92010442", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Patricia Ashton-Prolla",lattes:a,orcid:"0000-0002-5093-4739",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q92010442")));

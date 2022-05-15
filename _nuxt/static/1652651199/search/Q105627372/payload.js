@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105627372", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Fabio Fernandes da Rocha Vicente",lattes:a,orcid:"0000-0001-7716-3260",picture:a,affiliation:"Q105627310",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UTFPR)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105627372")));

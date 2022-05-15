@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102173598", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Piotr Boleslaw Koszmider",lattes:"8126909379078104",orcid:a,picture:a,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q102173598")));

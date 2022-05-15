@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q88173099", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Mara da Silveira Benfato",lattes:a,orcid:"0000-0001-5997-1926",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q88173099")));

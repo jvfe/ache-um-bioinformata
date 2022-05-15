@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q41049476", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"MAURO ANTÔNIO ALVES CASTRO",lattes:"6484877487662355",orcid:"0000-0003-4942-8131",picture:b,affiliation:"Q105621954",affiliationLabel:"UFPR, Programa de Pós Graduação em Bioinformática",affiliationRole:"professor"}}},mutations:b}}("Q41049476",void 0)));

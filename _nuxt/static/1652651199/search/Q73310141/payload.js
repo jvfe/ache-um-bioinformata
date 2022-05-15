@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q73310141", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Carlos A Tagliati",lattes:a,orcid:"0000-0002-1049-6754",picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q73310141")));

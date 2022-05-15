@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q59276437", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Kelly Rosa Braghetto",lattes:"5416099300504556",orcid:"0000-0001-6218-6849",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q59276437",void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56526563", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Vinicius Maracajá Coutinho",lattes:"5684206147354858",orcid:"0000-0002-8873-9381",picture:b,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:b}}("Q56526563",void 0)));

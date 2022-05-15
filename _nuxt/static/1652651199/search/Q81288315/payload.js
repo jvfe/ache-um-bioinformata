@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q81288315", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Fábio Armando Tal",lattes:"5658903073741596",orcid:"0000-0002-2238-969X",picture:b,affiliation:"Q107252693",affiliationLabel:"Programa de Pós-graduação em Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q81288315",void 0)));

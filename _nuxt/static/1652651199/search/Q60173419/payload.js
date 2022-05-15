@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q60173419", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Clodoaldo Grotta Ragazzo",lattes:"4804300167674691",orcid:"0000-0002-4277-4173",picture:b,affiliation:"Q107252693",affiliationLabel:"Programa de Pós-graduação em Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q60173419",void 0)));

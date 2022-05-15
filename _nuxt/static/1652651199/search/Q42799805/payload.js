@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q42799805", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"José Artur Bogo Chies",lattes:a,orcid:"0000-0001-7025-0660",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q42799805")));

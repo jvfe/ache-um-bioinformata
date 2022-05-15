@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q107001666", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Luís Carlos de Castro Santos",lattes:"5181059029789860",orcid:"0000-0001-6158-6517",picture:b,affiliation:"Q107154401",affiliationLabel:"Departamento de Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q107001666",void 0)));

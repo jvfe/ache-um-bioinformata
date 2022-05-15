@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q59100305", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Victor Fossaluza",lattes:"7608013990240863",orcid:"0000-0002-9328-0210",picture:b,affiliation:"Q107153596",affiliationLabel:"Departamento de Estatística (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q59100305",void 0)));

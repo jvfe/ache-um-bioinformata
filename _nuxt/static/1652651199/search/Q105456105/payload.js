@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105456105", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Ana Paula Pereira Scholz de Magalhães",lattes:a,orcid:"0000-0001-9374-695X",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105456105")));

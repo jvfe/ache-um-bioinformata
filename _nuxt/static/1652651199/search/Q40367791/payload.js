@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q40367791", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Chaim Samuel Hönig",lattes:"2798251952251077",orcid:a,picture:a,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q40367791")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q39396682", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Janette Palma Fett",lattes:a,orcid:"0000-0002-2525-9807",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q39396682")));

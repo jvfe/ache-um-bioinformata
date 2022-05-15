@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q88017728", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Roberto Tadeu Raittz",lattes:"9568041005753425",orcid:"0000-0002-5271-991X",picture:b,affiliation:"Q110097471",affiliationLabel:"UFPR\u002FUTFPR-CP, Programa de Pós Graduação em Bioinformática",affiliationRole:"professor"}}},mutations:b}}("Q88017728",void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56885222", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Frank Michael Forger",lattes:"6748364534679596",orcid:"0000-0001-6931-062X",picture:b,affiliation:"Q107154401",affiliationLabel:"Departamento de Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q56885222",void 0)));

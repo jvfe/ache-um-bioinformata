@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q30348910", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Mara H. Hutz",lattes:a,orcid:"0000-0002-9146-1229",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q30348910")));

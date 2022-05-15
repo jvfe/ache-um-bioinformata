@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q110040206", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Fábio Skilnik",lattes:a,orcid:a,picture:a,affiliation:"Q835960",affiliationLabel:"Universidade de São Paulo",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q110040206")));

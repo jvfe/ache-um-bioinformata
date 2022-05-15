@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102342325", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Ricardo Bianconi",lattes:"4159733067004447",orcid:"0000-0001-6236-0309",picture:b,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102342325",void 0)));

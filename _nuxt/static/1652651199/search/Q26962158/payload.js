@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q26962158", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Paolo Marinho de Andrade Zanotto",lattes:a,orcid:"0000-0002-8167-0625",picture:a,affiliation:"Q102292035",affiliationLabel:"Programa de Pós-graduação Interunidades em Bioinformática (USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q26962158")));

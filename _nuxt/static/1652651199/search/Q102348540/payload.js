@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102348540", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Flávio Ulhoa Coelho",lattes:"4924243158075998",orcid:"0000-0002-1292-621X",picture:b,affiliation:"Q107252465",affiliationLabel:"Programa de Pós-graduação em Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102348540",void 0)));

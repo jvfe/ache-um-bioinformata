@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q42323733", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Diego Bonatto",lattes:a,orcid:"0000-0001-8679-2448",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q42323733")));

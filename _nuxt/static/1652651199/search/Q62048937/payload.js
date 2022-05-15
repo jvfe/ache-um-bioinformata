@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q62048937", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Renata Wassermann",lattes:"8548608291351316",orcid:"0000-0001-8065-1433",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q62048937",void 0)));

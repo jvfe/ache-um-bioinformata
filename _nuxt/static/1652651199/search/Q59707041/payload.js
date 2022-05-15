@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q59707041", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Renato Vicente",lattes:"1914965078179670",orcid:"0000-0003-0671-9895",picture:b,affiliation:"Q107252693",affiliationLabel:"Programa de Pós-graduação em Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q59707041",void 0)));

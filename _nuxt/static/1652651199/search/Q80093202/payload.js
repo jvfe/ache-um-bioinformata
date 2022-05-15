@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q80093202", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Marco Dimas Gubitoso",lattes:"5510586949900283",orcid:"0000-0001-8334-9651",picture:b,affiliation:"Q18477654",affiliationLabel:"NeuroMat",affiliationRole:"professor"}}},mutations:b}}("Q80093202",void 0)));

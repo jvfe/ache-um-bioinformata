@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q10284716", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Francisco César Polcino Milies",lattes:"6912823669386029",orcid:"0000-0002-8389-0533",picture:b,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q10284716",void 0)));

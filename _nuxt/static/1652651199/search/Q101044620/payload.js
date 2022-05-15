@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q101044620", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"José Miguel Ortega",lattes:a,orcid:"0000-0002-8047-9191",picture:a,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q101044620")));

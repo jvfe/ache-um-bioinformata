@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q90871941", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Hugo Verli",lattes:a,orcid:"0000-0002-4796-8620",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q90871941")));

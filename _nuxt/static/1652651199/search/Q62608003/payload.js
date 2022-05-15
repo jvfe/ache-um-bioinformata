@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q62608003", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Alexandre Galvão Patriota",lattes:"6645291537707770",orcid:"0000-0003-1327-3473",picture:b,affiliation:"Q107153596",affiliationLabel:"Departamento de Estatística (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q62608003",void 0)));

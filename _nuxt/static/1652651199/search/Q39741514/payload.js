@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q39741514", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Lívia Kmetzsch Rosa e Silva",lattes:a,orcid:"0000-0003-3766-5869",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q39741514")));

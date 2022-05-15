@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q41579034", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Mariangela Hungria da Cunha",lattes:"7355162785040506",orcid:"0000-0002-5132-8685",picture:b,affiliation:"Q105627310",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UTFPR)",affiliationRole:"professor"}}},mutations:b}}("Q41579034",void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q59259875", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Artur Silva",lattes:a,orcid:"0000-0002-4082-1132",picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q59259875")));

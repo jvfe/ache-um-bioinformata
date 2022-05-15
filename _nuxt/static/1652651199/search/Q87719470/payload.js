@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q87719470", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Ariadne de Andrade Costa",lattes:"1816973322915720",orcid:"0000-0002-0963-2966",picture:b,affiliation:"Q18477654",affiliationLabel:"NeuroMat",affiliationRole:"professor"}}},mutations:b}}("Q87719470",void 0)));

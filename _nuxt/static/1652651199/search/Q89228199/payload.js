@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q89228199", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Laura Bannach Jardim",lattes:a,orcid:"0000-0001-6907-5068",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q89228199")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q109716969", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Igor Augusto Brandão",lattes:"2798181812475049",orcid:a,picture:a,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q109716969")));

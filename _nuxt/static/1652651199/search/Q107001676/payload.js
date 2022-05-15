@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q107001676", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Marcos Nascimento Magalhães",lattes:"8280771165693528",orcid:a,picture:a,affiliation:"Q107251926",affiliationLabel:"Programa de Mestrado Profissional em Ensino de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q107001676")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q89422265", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Jaime Angulo Pava",lattes:"6414101223818111",orcid:"0000-0002-7453-1782",picture:b,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q89422265",void 0)));

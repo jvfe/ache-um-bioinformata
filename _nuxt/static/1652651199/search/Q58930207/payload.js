@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q58930207", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Pedro da Silva Peixoto",lattes:"6547630839036017",orcid:"0000-0003-2358-3221",picture:b,affiliation:"Q107154401",affiliationLabel:"Departamento de Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q58930207",void 0)));

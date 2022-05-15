@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56088725", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Felipe Klein Ricachenevsky",lattes:a,orcid:"0000-0001-5429-3759",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q56088725")));

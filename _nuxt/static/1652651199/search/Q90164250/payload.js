@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q90164250", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Jorge Estefano Santana de Souza",lattes:"8058577659019910",orcid:"0000-0003-2347-042X",picture:b,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:b}}("Q90164250",void 0)));

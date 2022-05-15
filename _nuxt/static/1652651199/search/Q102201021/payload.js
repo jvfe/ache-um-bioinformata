@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102201021", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Jairo Zacarias Gonçalves",lattes:"7541987739314374",orcid:"0000-0002-7195-1060",picture:b,affiliation:"Q107252465",affiliationLabel:"Programa de Pós-graduação em Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102201021",void 0)));

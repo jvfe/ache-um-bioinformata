@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q58227710", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Henrique Cesar Pereira Figueiredo",lattes:a,orcid:"0000-0002-1022-6842",picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q58227710")));

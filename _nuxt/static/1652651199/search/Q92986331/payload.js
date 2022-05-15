@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q92986331", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Andreza F Martins",lattes:a,orcid:"0000-0001-6227-1920",picture:a,affiliation:"Q110227521",affiliationLabel:"Núcleo de Bioinformática do Hospital de Clínicas de Porto Alegre",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q92986331")));

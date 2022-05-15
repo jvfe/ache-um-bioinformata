@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56233584", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Leonardo Magalhães Cruz",lattes:"7947123455502712",orcid:"0000-0002-1380-576X",picture:b,affiliation:"Q105621954",affiliationLabel:"UFPR, Programa de Pós Graduação em Bioinformática",affiliationRole:"professor"}}},mutations:b}}("Q56233584",void 0)));

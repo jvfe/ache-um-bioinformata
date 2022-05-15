@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q107001690", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Marly Mandia",lattes:"7112005895059860",orcid:a,picture:a,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q107001690")));

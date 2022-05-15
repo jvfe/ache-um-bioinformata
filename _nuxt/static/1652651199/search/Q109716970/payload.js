@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q109716970", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Lucas Caia de Souza",lattes:"0434015840419465",orcid:a,picture:a,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q109716970")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q80618264", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Ana Maria Benko-Iseppon",lattes:a,orcid:"0000-0002-0575-3197",picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q80618264")));

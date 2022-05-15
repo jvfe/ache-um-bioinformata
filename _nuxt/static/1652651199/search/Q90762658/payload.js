@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q90762658", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Eliane Kaltchuk dos Santos",lattes:a,orcid:"0000-0002-0002-0234",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q90762658")));

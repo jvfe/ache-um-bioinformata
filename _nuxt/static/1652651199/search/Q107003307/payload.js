@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q107003307", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Oscar João Abdounur",lattes:"6884084734880165",orcid:a,picture:a,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q107003307")));

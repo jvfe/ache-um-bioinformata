@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105620819", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Eduardo Martin Tarazona Santos",lattes:a,orcid:a,picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105620819")));

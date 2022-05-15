@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/institution/Q9656458", (function(a){return {data:[{institution:a}],fetch:{"0":{institution:{id:a,institution:"Biblioteca Carlos Benjamin de Lyra",parentOrg:"Instituto de Matemática e Estatística da Universidade de São Paulo",officialWebsite:"https:\u002F\u002Fwww.ime.usp.br\u002Fbib"},researchers:[]}},mutations:void 0}}("Q9656458")));

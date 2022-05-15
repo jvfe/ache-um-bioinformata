@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q50791772", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Airlane Pereira Alencar",lattes:"9189359969730039",orcid:"0000-0002-0779-0426",picture:b,affiliation:"Q107153596",affiliationLabel:"Departamento de Estatística (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q50791772",void 0)));

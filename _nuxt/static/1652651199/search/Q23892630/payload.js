@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q23892630", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Elza Furtado Gomide",lattes:"1203490118064445",orcid:a,picture:a,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q23892630")));

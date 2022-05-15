@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q92460521", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Fernanda Sales Luiz Vianna",lattes:a,orcid:"0000-0001-6339-4869",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q92460521")));

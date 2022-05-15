@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q106975574", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Elizabeth Ferreira Santos",lattes:a,orcid:a,picture:a,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q106975574")));

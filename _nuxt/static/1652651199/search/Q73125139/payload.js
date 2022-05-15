@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q73125139", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Itabajara da Silva Vaz Junior",lattes:a,orcid:"0000-0003-0309-9328",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q73125139")));

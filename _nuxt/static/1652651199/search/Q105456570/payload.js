@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105456570", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Amanda Pasqualotto",lattes:a,orcid:"0000-0002-8273-3499",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105456570")));

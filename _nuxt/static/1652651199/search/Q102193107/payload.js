@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102193107", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Vitor de Oliveira Ferreira",lattes:"2177374113919630",orcid:"0000-0001-9306-9741",picture:b,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102193107",void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105713727", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Jose Claudio Fonseca Moreira",lattes:a,orcid:a,picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105713727")));

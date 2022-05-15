@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q57118765", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Gustavo Fioravanti Vieira",lattes:a,orcid:"0000-0002-2380-8059",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q57118765")));

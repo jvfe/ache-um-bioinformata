@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56747816", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Gerald Weber",lattes:a,orcid:"0000-0002-2935-1571",picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q56747816")));

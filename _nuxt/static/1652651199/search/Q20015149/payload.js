@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q20015149", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Loreta Brandão de Freitas",lattes:a,orcid:"0000-0002-0728-4945",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q20015149")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56046271", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Mauro Copelli",lattes:"9400915429521060",orcid:"0000-0001-7441-2858",picture:b,affiliation:"Q18477654",affiliationLabel:"NeuroMat",affiliationRole:"professor"}}},mutations:b}}("Q56046271",void 0)));

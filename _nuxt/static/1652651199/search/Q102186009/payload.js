@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102186009", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Ruy Exel Filho",lattes:"6531889931012965",orcid:"0000-0002-2183-988X",picture:b,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102186009",void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q89735350", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Fernanda Bered",lattes:a,orcid:"0000-0002-5710-7170",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q89735350")));

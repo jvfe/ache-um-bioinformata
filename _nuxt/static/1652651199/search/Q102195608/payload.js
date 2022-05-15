@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102195608", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Sinai Robins",lattes:"8455495596164984",orcid:"0000-0002-0463-0013",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q102195608",void 0)));

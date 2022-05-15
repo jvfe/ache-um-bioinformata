@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q57450257", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Marco Aurélio Gerosa",lattes:"4507073071352893",orcid:"0000-0003-1399-7535",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q57450257",void 0)));

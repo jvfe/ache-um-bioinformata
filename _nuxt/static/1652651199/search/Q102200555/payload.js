@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102200555", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Paulo Feofiloff",lattes:"6542043556427566",orcid:"0000-0002-7699-8677",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q102200555",void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102266615", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Gláucio Terra",lattes:"9764244146941023",orcid:"0000-0002-0068-9640",picture:b,affiliation:"Q107252465",affiliationLabel:"Programa de Pós-graduação em Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102266615",void 0)));

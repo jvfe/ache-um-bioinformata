@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q100992297", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Katia Castanho Scortecci",lattes:"4808910380593455",orcid:"0000-0002-4690-2785",picture:b,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:b}}("Q100992297",void 0)));

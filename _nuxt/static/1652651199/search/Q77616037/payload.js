@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q77616037", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Rafael Roesler",lattes:a,orcid:"0000-0001-6016-2261",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q77616037")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q42221241", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Cláudio Wageck Canal",lattes:a,orcid:"0000-0002-0621-243X",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q42221241")));

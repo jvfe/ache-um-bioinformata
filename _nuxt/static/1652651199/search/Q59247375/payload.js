@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q59247375", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Denis Deratani Mauá",lattes:"5302472310971255",orcid:"0000-0003-2297-6349",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q59247375",void 0)));

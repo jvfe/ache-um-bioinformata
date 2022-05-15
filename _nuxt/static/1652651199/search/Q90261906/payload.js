@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q90261906", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Maria Cátira Bortolini",lattes:a,orcid:"0000-0003-0598-3854",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q90261906")));

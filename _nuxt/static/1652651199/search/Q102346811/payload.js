@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102346811", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Ivan Struchiner",lattes:"6876840066785728",orcid:"0000-0002-8804-570X",picture:b,affiliation:"Q107252465",affiliationLabel:"Programa de Pós-graduação em Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102346811",void 0)));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102194112", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Waldyr Muniz Oliva",lattes:a,orcid:"0000-0002-7292-0231",picture:a,affiliation:"Q107154401",affiliationLabel:"Departamento de Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q102194112")));

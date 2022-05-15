@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56860684", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Oswaldo Baffa",lattes:a,orcid:"0000-0002-0622-2814",picture:a,affiliation:"Q18477654",affiliationLabel:"NeuroMat",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q56860684")));

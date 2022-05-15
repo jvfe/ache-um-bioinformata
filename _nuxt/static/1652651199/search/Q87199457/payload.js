@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q87199457", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Pedro Henrique Bugatti",lattes:a,orcid:"0000-0001-9421-9254",picture:a,affiliation:"Q105627310",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UTFPR)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q87199457")));

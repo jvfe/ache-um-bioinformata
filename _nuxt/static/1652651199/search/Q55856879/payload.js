@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q55856879", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Pedro Aladar Tonelli",lattes:"8872656701324553",orcid:"0000-0001-6241-5242",picture:b,affiliation:"Q107154401",affiliationLabel:"Departamento de Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q55856879",void 0)));

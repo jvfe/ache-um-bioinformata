@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q59509191", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Yoshiko Wakabayashi",lattes:"3174379270045864",orcid:"0000-0002-8229-3139",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q59509191",void 0)));

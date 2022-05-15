@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105621995", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Jeroniza Nunes Marchaukoski",lattes:a,orcid:a,picture:a,affiliation:"Q105621954",affiliationLabel:"UFPR, Programa de Pós Graduação em Bioinformática",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105621995")));

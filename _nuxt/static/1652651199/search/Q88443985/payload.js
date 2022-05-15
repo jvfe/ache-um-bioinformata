@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q88443985", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Adriano Brandelli",lattes:a,orcid:"0000-0002-9307-6471",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q88443985")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q56992684", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"R Ramos",lattes:a,orcid:"0000-0002-8032-1474",picture:a,affiliation:"Q105481707",affiliationLabel:"Programa Interunidades de Pós-graduação em Bioinformática (UFMG)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q56992684")));

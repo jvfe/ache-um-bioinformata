@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q59193371", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Luiz Filipe Protasio Pereira",lattes:a,orcid:"0000-0002-4872-6607",picture:a,affiliation:"Q105627310",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UTFPR)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q59193371")));

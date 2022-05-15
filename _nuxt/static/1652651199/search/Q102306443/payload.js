@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102306443", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Sílvia Lopes de Paula Ferrari",lattes:"4552581220981608",orcid:"0000-0001-5203-0875",picture:b,affiliation:"Q107153596",affiliationLabel:"Departamento de Estatística (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102306443",void 0)));

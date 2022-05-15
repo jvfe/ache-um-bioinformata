@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q109716444", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Karla Cristina Tabosa Machado",lattes:"3371348709222085",orcid:a,picture:a,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q109716444")));

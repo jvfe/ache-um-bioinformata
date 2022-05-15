@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102206933", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Elisabeti Kira",lattes:"2197573378160298",orcid:a,picture:a,affiliation:"Q107153596",affiliationLabel:"Departamento de Estatística (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q102206933")));

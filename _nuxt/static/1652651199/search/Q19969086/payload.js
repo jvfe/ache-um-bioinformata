@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q19969086", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Jorge Manuel Sotomayor Tello",lattes:"2202693274986226",orcid:"0000-0003-2280-8652",picture:b,affiliation:"Q107252465",affiliationLabel:"Programa de Pós-graduação em Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q19969086",void 0)));

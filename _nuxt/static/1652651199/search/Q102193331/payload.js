@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102193331", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Elisha Falbel",lattes:"2054379861742387",orcid:"0000-0003-3028-8925",picture:b,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102193331",void 0)));

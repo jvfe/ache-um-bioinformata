@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q58120761", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Eduardo Colli",lattes:"0694302682822936",orcid:"0000-0003-2167-8542",picture:b,affiliation:"Q107252693",affiliationLabel:"Programa de Pós-graduação em Matemática Aplicada (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q58120761",void 0)));

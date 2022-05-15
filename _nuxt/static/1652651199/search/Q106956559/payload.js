@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q106956559", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Ana Cristina Vieira de Melo",lattes:"1225623517319669",orcid:a,picture:a,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q106956559")));

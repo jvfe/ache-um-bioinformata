@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q107010679", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Zara Issa Abud",lattes:"8236351869175514",orcid:a,picture:a,affiliation:"Q10302895",affiliationLabel:"Instituto de Matemática e Estatística da Universidade de São Paulo",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q107010679")));

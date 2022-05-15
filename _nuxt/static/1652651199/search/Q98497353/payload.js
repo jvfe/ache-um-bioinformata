@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q98497353", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Alexsandro Giacomo Grimbert Gallo",lattes:"4037274656833325",orcid:"0000-0002-8910-0694",picture:b,affiliation:"Q18477654",affiliationLabel:"NeuroMat",affiliationRole:"professor"}}},mutations:b}}("Q98497353",void 0)));

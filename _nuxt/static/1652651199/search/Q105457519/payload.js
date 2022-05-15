@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105457519", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Betina Debastiani Benato",lattes:a,orcid:a,picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105457519")));

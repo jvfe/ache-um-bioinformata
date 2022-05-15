@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102207305", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Flávio Wagner Rodrigues",lattes:a,orcid:a,picture:a,affiliation:"Q107153596",affiliationLabel:"Departamento de Estatística (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q102207305")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q47223173", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Giancarlo Pasquali",lattes:a,orcid:"0000-0003-1256-544X",picture:a,affiliation:"Q105713522",affiliationLabel:"Programa de Pós Graduação em Biologia Celular e Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q47223173")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102194111", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Roberto Celso Fabrício Costa",lattes:"1784650965469880",orcid:a,picture:a,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q102194111")));

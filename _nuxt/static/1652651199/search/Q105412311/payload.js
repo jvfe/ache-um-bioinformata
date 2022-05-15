@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105412311", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Júnior Barrera",lattes:"0362417828475021",orcid:a,picture:a,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105412311")));

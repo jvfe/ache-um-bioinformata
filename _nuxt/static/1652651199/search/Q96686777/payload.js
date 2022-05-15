@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q96686777", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Karen Luisa Haag",lattes:a,orcid:"0000-0003-1162-0152",picture:a,affiliation:"Q105413537",affiliationLabel:"Programa de Pós Graduação em Genética e Biologia Molecular",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q96686777")));

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q105708378", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Ana Cláudia Costa da Silva",lattes:"4555593159788385",orcid:a,picture:a,affiliation:"Q105627005",affiliationLabel:"Programa de Pós Graduação em Bioinformática (UFRN)",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q105708378")));

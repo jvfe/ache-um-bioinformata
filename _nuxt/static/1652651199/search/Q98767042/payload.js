@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q98767042", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Patricia Reynaud-Bouret",lattes:a,orcid:a,picture:a,affiliation:"Q18477654",affiliationLabel:"NeuroMat",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q98767042")));

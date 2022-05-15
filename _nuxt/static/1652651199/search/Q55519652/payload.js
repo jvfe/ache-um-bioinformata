@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q55519652", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Vyacheslav Futorny",lattes:"6765895362060524",orcid:"0000-0002-4701-8879",picture:b,affiliation:"Q10302895",affiliationLabel:"Instituto de Matemática e Estatística da Universidade de São Paulo",affiliationRole:"professor"}}},mutations:b}}("Q55519652",void 0)));

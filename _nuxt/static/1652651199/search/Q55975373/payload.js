@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q55975373", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Paolo Piccione",lattes:"2869491387764118",orcid:"0000-0002-8929-5938",picture:b,affiliation:"Q107252465",affiliationLabel:"Programa de Pós-graduação em Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q55975373",void 0)));

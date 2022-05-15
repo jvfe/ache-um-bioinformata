@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q61774428", (function(a,b){return {data:[{bioinformata:b}],fetch:{"0":{authorData:{id:b,name:"Dieval Guizelini",lattes:a,orcid:"0000-0002-1080-8586",picture:a,affiliation:"Q105621954",affiliationLabel:"UFPR, Programa de Pós Graduação em Bioinformática",affiliationRole:"professor"}}},mutations:a}}(void 0,"Q61774428")));

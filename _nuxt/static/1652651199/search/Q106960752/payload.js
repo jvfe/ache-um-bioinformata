@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q106960752", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Carlos Hitoshi Morimoto",lattes:"4575931307749163",orcid:"0000-0003-4679-2827",picture:b,affiliation:"Q107151201",affiliationLabel:"Departamento de Ciência da Computação (IME\u002FUSP)",affiliationRole:"professor"}}},mutations:b}}("Q106960752",void 0)));

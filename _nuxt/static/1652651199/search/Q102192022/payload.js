@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/search/Q102192022", (function(a,b){return {data:[{bioinformata:a}],fetch:{"0":{authorData:{id:a,name:"Oswaldo Rio Branco de Oliveira",lattes:"9213713189738316",orcid:"0000-0003-0291-8686",picture:b,affiliation:"Q107150637",affiliationLabel:"Departamento de Matemática (IME-USP)",affiliationRole:"professor"}}},mutations:b}}("Q102192022",void 0)));
