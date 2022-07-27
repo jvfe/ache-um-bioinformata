@@ -7,17 +7,21 @@
       >
         {{ researcher.name }} - {{ researcher.id }}
       </nuxt-link>
-      <span class="flex gap-1">
-        <p>
+      <span
+        v-for="(affi, affiIndex) in researcher.affiliationLabel"
+        :key="researcher.affiliation[affiIndex]"
+        class="flex"
+      >
+        <p class="pr-1">
           {{
             researcher.affiliationRole ? researcher.affiliationRole : 'membro'
           }}
           no
         </p>
         <nuxt-link
-          :to="`/institution/${researcher.affiliation}`"
+          :to="`/institution/${researcher.affiliation[affiIndex]}`"
           class="text-sm md:text-base simple-link"
-          >{{ researcher.affiliationLabel }}</nuxt-link
+          >{{ affi }}</nuxt-link
         >
       </span>
     </div>
